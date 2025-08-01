@@ -180,8 +180,8 @@
     "Submission ID": "6298514251522971411"
   },
   {
-    "Name": 222,
-    "Phone": "",
+    "Name": "???",
+    "Phone": "(09) -8751-3327",
     "E_mail": "",
     "Version": "",
     "Fabric": "",
@@ -193,30 +193,10 @@
     "Material_plus": "",
     "Photo": "",
     "Description": "",
-    "Order_number": "",
-    "Quote": "",
+    "Order_number": "ODR-0013",
+    "Quote": 0,
     "Date": "",
     "Product: Products": "",
-    "Submission ID": ""
-  },
-  {
-    "Name": 333,
-    "Phone": "",
-    "E_mail": "",
-    "Version": "",
-    "Fabric": "",
-    "Material": "",
-    "Color": "",
-    "Size": "",
-    "Quantity": "",
-    "Price": "",
-    "Material_plus": "",
-    "Photo": "",
-    "Description": "",
-    "Order_number": "",
-    "Quote": "",
-    "Date": "",
-    "Product: Products": "",
-    "Submission ID": ""
+    "Submission ID": "6298808551522467188"
   }
 ]
