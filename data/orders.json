@@ -271,7 +271,7 @@
     "Quantity": 100,
     "Price": 100,
     "Material_plus": 100,
-    "Photo": "https://drive.google.com/file/d/1lXb-Hl0x900gCtZMydt1XFowWXgZVKe5/view?usp=drivesdk",
+    "Photo": "https://drive.google.com/file/d/12mRJO9FNSlmYpgTZtlYZhwOuhIpgcuoC/view?usp=drivesdk",
     "Description": 2222,
     "Order_number": "ODR-0017",
     "Quote": 20000,
@@ -291,7 +291,7 @@
     "Quantity": "",
     "Price": "",
     "Material_plus": "",
-    "Photo": "https://drive.google.com/file/d/1ZTrYA-HxYlniQzk8MmexNpTGhgqUDNsF/view?usp=drivesdk",
+    "Photo": "https://drive.google.com/file/d/1WyxBFF_jzMZkxXtu1BOA4TP3jBLysQYX/view?usp=drivesdk",
     "Description": "",
     "Order_number": "ODR-0018",
     "Quote": 0,
@@ -318,5 +318,25 @@
     "Date": "",
     "Product: Products": "",
     "Submission ID": ""
+  },
+  {
+    "Name": "周周",
+    "Phone": "(09) -8751-3327",
+    "E_mail": "",
+    "Version": "",
+    "Fabric": "",
+    "Material": "",
+    "Color": "",
+    "Size": "",
+    "Quantity": "",
+    "Price": "",
+    "Material_plus": "",
+    "Photo": "https://drive.google.com/file/d/1oAWvMlDoFEuBjbRAkRLX6yzSz0Pwem7i/view?usp=drivesdk",
+    "Description": "",
+    "Order_number": "ODR-0019",
+    "Quote": 0,
+    "Date": "",
+    "Product: Products": "",
+    "Submission ID": "6299164623847977761"
   }
 ]
